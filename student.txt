@@ -7,3 +7,4 @@ Attendance: 85%
 Result: PASS 
 Feature: Attendance Management
 Feature:Result Management
+Feature:Student profile
