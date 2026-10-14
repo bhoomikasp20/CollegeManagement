@@ -4,4 +4,5 @@ Roll Number: 11
 Department: CSD
 Semester: 5
 Attendance: 85%
-Result: PASSFeature: Attendance Management
+Result: PASS 
+Feature: Attendance Management
